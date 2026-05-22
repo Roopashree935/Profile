@@ -1,4 +1,5 @@
-# 👩‍💻ROOPASHREE
+# 👩‍💻 
+ROOPASHREE
 
 **DevOps Trainee | Frontend Developer | UI/UX Design Enthusiast**
 
